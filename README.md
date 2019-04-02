@@ -1,2 +1,2 @@
-# grupo1_sigp
+# Grupo1_SIGP
 Sistema integral de gestión de pacientes - Ingeniería de Software
